@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Users\Artem Mingazov\source\repos\2048\2048\Source.cpp(137,30): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Artem Mingazov\source\repos\2048\2048\Source.cpp(137,27): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Artem Mingazov\source\repos\2048\2048\Source.cpp(257,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  2048.vcxproj -> C:\Users\Artem Mingazov\source\repos\2048\Debug\2048.exe
